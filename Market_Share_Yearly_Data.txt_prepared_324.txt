@@ -1,0 +1,23 @@
+[
+    {
+        "pd_marketshare_ytd_totals_8_dailyAvgVolInMillions": 38529.2
+    },
+    {
+        "pd_marketshare_ytd_totals_8_percentFifthQuintMktShare": "0.86"
+    },
+    {
+        "pd_marketshare_ytd_totals_8_percentFifthQuintRange": "<=0.35"
+    },
+    {
+        "pd_marketshare_ytd_totals_8_percentFirstQuintMktShare": "53.62"
+    },
+    {
+        "pd_marketshare_ytd_totals_8_percentFirstQuintRange": ">=8.66"
+    },
+    {
+        "pd_marketshare_ytd_totals_8_percentFourthQuintMktShare": "5.60"
+    },
+    {
+        "pd_marketshare_ytd_totals_8_percentFourthQuintRange": "0.96 - 1.41"
+    }
+]

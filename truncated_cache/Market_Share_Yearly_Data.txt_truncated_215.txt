@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_others_6_security": "COUPONS DUE IN > 7 YRS, BUT <= 11 YRS"
+    },
+    {
+        "pd_marketshare_ytd_others_6_securityType": "U.S. TREASURY SECURITIES (EXCLUDING TIPS)"
+    },
+    {
+        "pd_marketshare_ytd_others_7_dailyAvgVolInMillions": 10470.4
+    },
+    {
+        "pd_marketshare_ytd_others_7_percentFifthQuintMktShare": "1.28"
+    },
+    {
+        "pd_marketshare_ytd_others_7_percentFifthQuintRange": "<=0.37"
+    },
+    {
+        "pd_marketshare_ytd_others_7_percentFirstQuintMktShare": "59.28"
+    }
+]

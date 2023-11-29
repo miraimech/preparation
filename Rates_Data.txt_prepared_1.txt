@@ -1,0 +1,29 @@
+[
+    {
+        "refRates_0_average180day": 5.29712
+    },
+    {
+        "refRates_0_average30day": 5.33004
+    },
+    {
+        "refRates_0_average90day": 5.34572
+    },
+    {
+        "refRates_0_effectiveDate": "2023-11-27"
+    },
+    {
+        "refRates_0_index": 1.10934209
+    },
+    {
+        "refRates_0_type": "SOFRAI"
+    },
+    {
+        "refRates_1_effectiveDate": "2023-11-24"
+    },
+    {
+        "refRates_1_percentPercentile1": 5.3
+    },
+    {
+        "refRates_1_percentPercentile25": 5.32
+    }
+]

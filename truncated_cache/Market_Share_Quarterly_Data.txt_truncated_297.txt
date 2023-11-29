@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_29_percentFirstQuintRange": ">=9.24"
+    },
+    {
+        "pd_marketshare_quarterly_totals_29_percentFourthQuintMktShare": "0.32"
+    },
+    {
+        "pd_marketshare_quarterly_totals_29_percentFourthQuintRange": "0.00 - 0.26"
+    },
+    {
+        "pd_marketshare_quarterly_totals_29_percentSecondQuintMktShare": "25.18"
+    },
+    {
+        "pd_marketshare_quarterly_totals_29_percentSecondQuintRange": "3.60 - 7.03"
+    },
+    {
+        "pd_marketshare_quarterly_totals_29_percentThirdQuintMktShare": "6.44"
+    }
+]

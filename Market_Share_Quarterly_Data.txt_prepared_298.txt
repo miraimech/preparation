@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_29_percentThirdQuintMktShare": "6.44"
+    },
+    {
+        "pd_marketshare_quarterly_totals_29_percentThirdQuintRange": "0.60 - 2.96"
+    },
+    {
+        "pd_marketshare_quarterly_totals_29_security": "DUE IN > 13 MNTHS, BUT <= 5 YRS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_29_securityType": "BELOW INVESTMENT GRADE BONDS, NOTES, AND DEBENTURES"
+    },
+    {
+        "pd_marketshare_quarterly_totals_2_dailyAvgVolInMillions": 79088.6
+    },
+    {
+        "pd_marketshare_quarterly_totals_2_percentFifthQuintMktShare": "2.09"
+    }
+]

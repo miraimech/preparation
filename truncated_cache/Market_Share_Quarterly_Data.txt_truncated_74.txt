@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_2_percentSecondQuintRange": "5.66 - 6.67"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_2_percentThirdQuintMktShare": "17.32"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_2_percentThirdQuintRange": "2.35 - 4.53"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_2_security": "COUPONS DUE IN 2 YRS OR LESS"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_2_securityType": "U.S. TREASURY SECURITIES (EXCLUDING TIPS)"
+    }
+]

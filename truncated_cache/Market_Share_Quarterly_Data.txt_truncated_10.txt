@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_11_percentThirdQuintRange": "0.66 - 3.49"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_11_security": "TIPS DUE IN > 6 YRS,BUT <= 11 YRS"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_11_securityType": "U.S. TREASURY INFLATION PROTECTED SECURITIES (TIPS)"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_12_dailyAvgVolInMillions": 235.9
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_12_percentFifthQuintMktShare": "0.00"
+    }
+]

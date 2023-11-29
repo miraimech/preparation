@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_others_20_percentSecondQuintMktShare": "26.27"
+    },
+    {
+        "pd_marketshare_quarterly_others_20_percentSecondQuintRange": "3.08 - 6.43"
+    },
+    {
+        "pd_marketshare_quarterly_others_20_percentThirdQuintMktShare": "4.36"
+    },
+    {
+        "pd_marketshare_quarterly_others_20_percentThirdQuintRange": "0.00 - 1.81"
+    },
+    {
+        "pd_marketshare_quarterly_others_20_security": "FEDERAL AGENCY AND GSE CMBS"
+    },
+    {
+        "pd_marketshare_quarterly_others_20_securityType": "MORTGAGE BACKED SECURITIES,FEDERAL AGENCY AND GSE MBS"
+    }
+]

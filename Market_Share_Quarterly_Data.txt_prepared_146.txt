@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_others_13_percentSecondQuintRange": "4.43 - 6.29"
+    },
+    {
+        "pd_marketshare_quarterly_others_13_percentThirdQuintMktShare": "15.54"
+    },
+    {
+        "pd_marketshare_quarterly_others_13_percentThirdQuintRange": "1.82 - 4.12"
+    },
+    {
+        "pd_marketshare_quarterly_others_13_security": "DISCOUNT NOTES"
+    },
+    {
+        "pd_marketshare_quarterly_others_13_securityType": "FEDERAL AGENCY AND GSE SECURITIES (EXCLUDING MBS)"
+    },
+    {
+        "pd_marketshare_quarterly_others_14_dailyAvgVolInMillions": 5718.8
+    }
+]

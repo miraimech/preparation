@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_others_17_security": "SPECIFIED POOLS CASH TRANSACTIONS"
+    },
+    {
+        "pd_marketshare_quarterly_others_17_securityType": "MORTGAGE BACKED SECURITIES,FEDERAL AGENCY AND GSE MBS"
+    },
+    {
+        "pd_marketshare_quarterly_others_18_dailyAvgVolInMillions": null
+    },
+    {
+        "pd_marketshare_quarterly_others_18_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_18_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_18_percentFirstQuintMktShare": "*"
+    }
+]

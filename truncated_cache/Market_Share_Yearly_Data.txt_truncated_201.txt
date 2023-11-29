@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_others_39_percentFourthQuintRange": "0.00 - 0.00"
+    },
+    {
+        "pd_marketshare_ytd_others_39_percentSecondQuintMktShare": "22.73"
+    },
+    {
+        "pd_marketshare_ytd_others_39_percentSecondQuintRange": "0.92 - 8.45"
+    },
+    {
+        "pd_marketshare_ytd_others_39_percentThirdQuintMktShare": "1.25"
+    },
+    {
+        "pd_marketshare_ytd_others_39_percentThirdQuintRange": "0.00 - 0.68"
+    },
+    {
+        "pd_marketshare_ytd_others_39_security": "AUTOMOBILE LOAN-BACKED SECURITIES"
+    }
+]

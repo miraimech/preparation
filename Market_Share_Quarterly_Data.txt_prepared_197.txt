@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_31_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_31_percentFirstQuintMktShare": "73.27"
+    },
+    {
+        "pd_marketshare_quarterly_others_31_percentFirstQuintRange": ">=7.24"
+    },
+    {
+        "pd_marketshare_quarterly_others_31_percentFourthQuintMktShare": "0.08"
+    },
+    {
+        "pd_marketshare_quarterly_others_31_percentFourthQuintRange": "0.00 - 0.03"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_4_percentFourthQuintRange": "1.22 - 1.87"
+    },
+    {
+        "pd_marketshare_quarterly_totals_4_percentSecondQuintMktShare": "25.95"
+    },
+    {
+        "pd_marketshare_quarterly_totals_4_percentSecondQuintRange": "4.29 - 6.72"
+    },
+    {
+        "pd_marketshare_quarterly_totals_4_percentThirdQuintMktShare": "10.85"
+    },
+    {
+        "pd_marketshare_quarterly_totals_4_percentThirdQuintRange": "1.89 - 2.66"
+    },
+    {
+        "pd_marketshare_quarterly_totals_4_security": "COUPONS DUE > 3 YRS, BUT <= 6 YRS"
+    }
+]

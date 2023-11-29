@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_others_40_percentThirdQuintRange": "1.52 - 4.73"
+    },
+    {
+        "pd_marketshare_ytd_others_40_security": "OTHER ASSET-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_ytd_others_40_securityType": "ASSET-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_ytd_others_4_dailyAvgVolInMillions": 84235.4
+    },
+    {
+        "pd_marketshare_ytd_others_4_percentFifthQuintMktShare": "2.20"
+    },
+    {
+        "pd_marketshare_ytd_others_4_percentFifthQuintRange": "<=0.56"
+    }
+]

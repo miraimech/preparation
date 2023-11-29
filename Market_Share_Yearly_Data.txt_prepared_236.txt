@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_totals_13_securityType": "FEDERAL AGENCY AND GSE SECURITIES (EXCLUDING MBS)"
+    },
+    {
+        "pd_marketshare_ytd_totals_14_dailyAvgVolInMillions": 8496.0
+    },
+    {
+        "pd_marketshare_ytd_totals_14_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_ytd_totals_14_percentFirstQuintMktShare": "68.76"
+    },
+    {
+        "pd_marketshare_ytd_totals_14_percentFirstQuintRange": ">=8.14"
+    }
+]

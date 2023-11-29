@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_14_percentSecondQuintRange": "2.80 - 6.65"
+    },
+    {
+        "pd_marketshare_quarterly_totals_14_percentThirdQuintMktShare": "8.72"
+    },
+    {
+        "pd_marketshare_quarterly_totals_14_percentThirdQuintRange": "1.18 - 2.36"
+    },
+    {
+        "pd_marketshare_quarterly_totals_14_security": "COUPONS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_14_securityType": "FEDERAL AGENCY AND GSE SECURITIES (EXCLUDING MBS)"
+    },
+    {
+        "pd_marketshare_quarterly_totals_15_dailyAvgVolInMillions": 178739.5
+    }
+]

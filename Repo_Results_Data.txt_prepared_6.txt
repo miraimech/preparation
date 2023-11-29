@@ -1,0 +1,23 @@
+[
+    {
+        "repo_operations_1_details_2_minimumBidRate": 5.5
+    },
+    {
+        "repo_operations_1_details_2_securityType": "Mortgage-Backed"
+    },
+    {
+        "repo_operations_1_lastUpdated": "2023-11-27 13:45:51"
+    },
+    {
+        "repo_operations_1_maturityDate": "2023-11-28"
+    },
+    {
+        "repo_operations_1_operationDate": "2023-11-27"
+    },
+    {
+        "repo_operations_1_operationId": "RP 112723 3"
+    },
+    {
+        "repo_operations_1_operationLimit": 500000000000
+    }
+]

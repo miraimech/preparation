@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_21_percentThirdQuintMktShare": "1.47"
+    },
+    {
+        "pd_marketshare_quarterly_others_21_percentThirdQuintRange": "0.00 - 1.13"
+    },
+    {
+        "pd_marketshare_quarterly_others_21_security": "NON-AGENCY RMBS"
+    },
+    {
+        "pd_marketshare_quarterly_others_21_securityType": "NON-AGENCY MBS"
+    },
+    {
+        "pd_marketshare_quarterly_others_22_dailyAvgVolInMillions": 531.7
+    }
+]

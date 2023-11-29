@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_10_percentSecondQuintRange": "3.55 - 8.96"
+    },
+    {
+        "pd_marketshare_quarterly_others_10_percentThirdQuintMktShare": "9.43"
+    },
+    {
+        "pd_marketshare_quarterly_others_10_percentThirdQuintRange": "0.77 - 3.12"
+    },
+    {
+        "pd_marketshare_quarterly_others_10_security": "TIPS DUE IN > 2 YRS,BUT <= 6 YRS"
+    },
+    {
+        "pd_marketshare_quarterly_others_10_securityType": "U.S. TREASURY INFLATION PROTECTED SECURITIES (TIPS)"
+    }
+]

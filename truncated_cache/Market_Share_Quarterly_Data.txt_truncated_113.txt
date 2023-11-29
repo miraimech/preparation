@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_40_percentThirdQuintRange": "0.00 - 0.00"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_40_security": "OTHER ASSET-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_40_securityType": "ASSET-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_4_dailyAvgVolInMillions": 37859.9
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_4_percentFifthQuintMktShare": "0.49"
+    }
+]

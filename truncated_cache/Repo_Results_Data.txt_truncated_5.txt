@@ -1,0 +1,26 @@
+[
+    {
+        "repo_operations_1_details_0_securityType": "Treasury"
+    },
+    {
+        "repo_operations_1_details_1_amtAccepted": 0
+    },
+    {
+        "repo_operations_1_details_1_amtSubmitted": 0
+    },
+    {
+        "repo_operations_1_details_1_minimumBidRate": 5.5
+    },
+    {
+        "repo_operations_1_details_1_securityType": "Agency"
+    },
+    {
+        "repo_operations_1_details_2_amtAccepted": 0
+    },
+    {
+        "repo_operations_1_details_2_amtSubmitted": 0
+    },
+    {
+        "repo_operations_1_details_2_minimumBidRate": 5.5
+    }
+]

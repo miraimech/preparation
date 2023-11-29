@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_16_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_16_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_16_percentFirstQuintMktShare": "80.02"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_16_percentFirstQuintRange": ">=11.90"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_16_percentFourthQuintMktShare": "0.00"
+    }
+]

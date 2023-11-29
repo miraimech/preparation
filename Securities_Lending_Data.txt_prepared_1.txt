@@ -1,0 +1,23 @@
+[
+    {
+        "seclending_operations_0_auctionStatus": "Results"
+    },
+    {
+        "seclending_operations_0_closeTime": "12:15"
+    },
+    {
+        "seclending_operations_0_lastUpdated": "2023-11-27 12:16:44"
+    },
+    {
+        "seclending_operations_0_maturityDate": "2023-11-28"
+    },
+    {
+        "seclending_operations_0_operationDate": "2023-11-27"
+    },
+    {
+        "seclending_operations_0_operationId": "SL 112723 1"
+    },
+    {
+        "seclending_operations_0_operationType": "Securities Lending"
+    }
+]

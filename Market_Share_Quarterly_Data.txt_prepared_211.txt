@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_36_percentFourthQuintRange": "0.00 - 0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_36_percentSecondQuintMktShare": "19.77"
+    },
+    {
+        "pd_marketshare_quarterly_others_36_percentSecondQuintRange": "0.77 - 7.20"
+    },
+    {
+        "pd_marketshare_quarterly_others_36_percentThirdQuintRange": "0.00 - 0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_36_security": "VARIABLE RATE DEMAND NOTES"
+    }
+]

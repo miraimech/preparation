@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_others_0_percentSecondQuintMktShare": "25.28"
+    },
+    {
+        "pd_marketshare_ytd_others_0_percentSecondQuintRange": "4.19 - 6.80"
+    },
+    {
+        "pd_marketshare_ytd_others_0_percentThirdQuintMktShare": "15.94"
+    },
+    {
+        "pd_marketshare_ytd_others_0_percentThirdQuintRange": "2.61 - 3.60"
+    },
+    {
+        "pd_marketshare_ytd_others_0_security": "TREASURY BILLS"
+    },
+    {
+        "pd_marketshare_ytd_others_0_securityType": "U.S. TREASURY SECURITIES (EXCLUDING TIPS)"
+    }
+]

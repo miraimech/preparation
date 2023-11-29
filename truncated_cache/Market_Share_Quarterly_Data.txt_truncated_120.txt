@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_5_securityType": "U.S. TREASURY SECURITIES (EXCLUDING TIPS)"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_6_dailyAvgVolInMillions": 23700.4
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_6_percentFifthQuintMktShare": "0.44"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_6_percentFifthQuintRange": "<=0.31"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_6_percentFirstQuintMktShare": "49.90"
+    }
+]

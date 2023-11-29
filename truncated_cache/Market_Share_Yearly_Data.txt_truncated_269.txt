@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_totals_25_security": "DUE IN > 13 MNTHS, BUT <=5 YRS"
+    },
+    {
+        "pd_marketshare_ytd_totals_25_securityType": "INVESTMENT GRADE BONDS, NOTES, AND DEBENTURES"
+    },
+    {
+        "pd_marketshare_ytd_totals_26_dailyAvgVolInMillions": 5547.7
+    },
+    {
+        "pd_marketshare_ytd_totals_26_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_ytd_totals_26_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_ytd_totals_26_percentFirstQuintMktShare": "60.65"
+    }
+]

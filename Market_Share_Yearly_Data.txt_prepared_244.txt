@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_totals_17_dailyAvgVolInMillions": 30626.5
+    },
+    {
+        "pd_marketshare_ytd_totals_17_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_ytd_totals_17_percentFirstQuintMktShare": "80.64"
+    },
+    {
+        "pd_marketshare_ytd_totals_17_percentFirstQuintRange": ">=4.49"
+    },
+    {
+        "pd_marketshare_ytd_totals_17_percentFourthQuintMktShare": "0.74"
+    }
+]

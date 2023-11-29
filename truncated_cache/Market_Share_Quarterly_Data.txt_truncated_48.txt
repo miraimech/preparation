@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_22_percentSecondQuintMktShare": "*"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_22_percentSecondQuintRange": "*"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_22_percentThirdQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_22_percentThirdQuintRange": "0.00 - 0.00"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_22_security": "OTHER CMBS"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_22_securityType": "NON-AGENCY MBS"
+    }
+]

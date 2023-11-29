@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_22_securityType": "NON-AGENCY MBS"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_23_dailyAvgVolInMillions": 164.4
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_23_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_23_percentFirstQuintMktShare": "100.00"
+    }
+]

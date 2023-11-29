@@ -1,0 +1,29 @@
+[
+    {
+        "refRates_2_volumeInBillions": 252
+    },
+    {
+        "refRates_3_effectiveDate": "2023-11-24"
+    },
+    {
+        "refRates_3_percentPercentile1": 5.25
+    },
+    {
+        "refRates_3_percentPercentile25": 5.3
+    },
+    {
+        "refRates_3_percentPercentile75": 5.31
+    },
+    {
+        "refRates_3_percentPercentile99": 5.36
+    },
+    {
+        "refRates_3_percentRate": 5.3
+    },
+    {
+        "refRates_3_revisionIndicator": ""
+    },
+    {
+        "refRates_3_type": "TGCR"
+    }
+]

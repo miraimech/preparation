@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_15_percentThirdQuintRange": "0.29 - 1.49"
+    },
+    {
+        "pd_marketshare_quarterly_totals_15_security": "TBA CASH TRANSACTIONS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_15_securityType": "MORTGAGE BACKED SECURITIES,FEDERAL AGENCY AND GSE MBS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_16_dailyAvgVolInMillions": 108673.4
+    },
+    {
+        "pd_marketshare_quarterly_totals_16_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_quarterly_totals_16_percentFifthQuintRange": "<=0.00"
+    }
+]

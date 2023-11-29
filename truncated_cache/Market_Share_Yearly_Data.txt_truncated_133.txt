@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_others_15_dailyAvgVolInMillions": 143160.1
+    },
+    {
+        "pd_marketshare_ytd_others_15_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_ytd_others_15_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_ytd_others_15_percentFirstQuintMktShare": "71.56"
+    },
+    {
+        "pd_marketshare_ytd_others_15_percentFirstQuintRange": ">=7.88"
+    },
+    {
+        "pd_marketshare_ytd_others_15_percentFourthQuintMktShare": "0.32"
+    }
+]

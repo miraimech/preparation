@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_others_11_percentFourthQuintRange": "0.17 - 1.09"
+    },
+    {
+        "pd_marketshare_ytd_others_11_percentSecondQuintMktShare": "23.46"
+    },
+    {
+        "pd_marketshare_ytd_others_11_percentSecondQuintRange": "3.59 - 6.99"
+    },
+    {
+        "pd_marketshare_ytd_others_11_percentThirdQuintMktShare": "11.06"
+    },
+    {
+        "pd_marketshare_ytd_others_11_percentThirdQuintRange": "1.10 - 3.19"
+    },
+    {
+        "pd_marketshare_ytd_others_11_security": "TIPS DUE IN > 6 YRS,BUT <= 11 YRS"
+    }
+]

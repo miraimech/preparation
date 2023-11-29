@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_26_percentSecondQuintRange": "3.58 - 5.63"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_26_percentThirdQuintMktShare": "7.02"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_26_percentThirdQuintRange": "0.38 - 2.82"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_26_security": "DUE IN > 5 YRS, BUT <= 10 YRS"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_26_securityType": "INVESTMENT GRADE BONDS, NOTES, AND DEBENTURES"
+    }
+]

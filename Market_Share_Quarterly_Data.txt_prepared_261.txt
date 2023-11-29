@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_16_percentSecondQuintMktShare": "14.50"
+    },
+    {
+        "pd_marketshare_quarterly_totals_16_percentSecondQuintRange": "0.06 - 7.07"
+    },
+    {
+        "pd_marketshare_quarterly_totals_16_percentThirdQuintMktShare": "*"
+    },
+    {
+        "pd_marketshare_quarterly_totals_16_percentThirdQuintRange": "*"
+    },
+    {
+        "pd_marketshare_quarterly_totals_16_security": "TBA DOLLAR ROLL TRANSACTIONS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_16_securityType": "MORTGAGE BACKED SECURITIES,FEDERAL AGENCY AND GSE MBS"
+    }
+]

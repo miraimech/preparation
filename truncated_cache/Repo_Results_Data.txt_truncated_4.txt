@@ -1,0 +1,26 @@
+[
+    {
+        "repo_operations_0_totalAmtAccepted": 867220000000
+    },
+    {
+        "repo_operations_0_totalAmtSubmitted": 867220000000
+    },
+    {
+        "repo_operations_1_auctionStatus": "Results"
+    },
+    {
+        "repo_operations_1_closeTime": "13:45"
+    },
+    {
+        "repo_operations_1_details_0_amtAccepted": 0
+    },
+    {
+        "repo_operations_1_details_0_amtSubmitted": 0
+    },
+    {
+        "repo_operations_1_details_0_minimumBidRate": 5.5
+    },
+    {
+        "repo_operations_1_details_0_securityType": "Treasury"
+    }
+]

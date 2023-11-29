@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_30_percentFirstQuintRange": ">=6.30"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_30_percentFourthQuintMktShare": "*"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_30_percentFourthQuintRange": "*"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_30_percentSecondQuintMktShare": "21.41"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_30_percentSecondQuintRange": "3.01 - 6.25"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_30_percentThirdQuintMktShare": "2.32"
+    }
+]

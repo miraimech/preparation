@@ -1,0 +1,26 @@
+[
+    {
+        "repo_operations_0_details_0_securityType": "Treasury"
+    },
+    {
+        "repo_operations_0_lastUpdated": "2023-11-27 13:15:53"
+    },
+    {
+        "repo_operations_0_maturityDate": "2023-11-28"
+    },
+    {
+        "repo_operations_0_note": ""
+    },
+    {
+        "repo_operations_0_operationDate": "2023-11-27"
+    },
+    {
+        "repo_operations_0_operationId": "RP 112723 1"
+    },
+    {
+        "repo_operations_0_operationMethod": "Fixed Rate"
+    },
+    {
+        "repo_operations_0_operationType": "Reverse Repo"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_24_security": "DUE IN <= 13 MNTHS"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_24_securityType": "INVESTMENT GRADE BONDS, NOTES, AND DEBENTURES"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_25_dailyAvgVolInMillions": 126.9
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_25_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_25_percentFirstQuintMktShare": "80.18"
+    }
+]

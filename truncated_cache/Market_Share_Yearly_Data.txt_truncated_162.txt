@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_others_25_percentFourthQuintRange": "0.02 - 0.61"
+    },
+    {
+        "pd_marketshare_ytd_others_25_percentSecondQuintMktShare": "28.21"
+    },
+    {
+        "pd_marketshare_ytd_others_25_percentSecondQuintRange": "3.67 - 7.72"
+    },
+    {
+        "pd_marketshare_ytd_others_25_percentThirdQuintMktShare": "9.06"
+    },
+    {
+        "pd_marketshare_ytd_others_25_percentThirdQuintRange": "1.00 - 3.26"
+    },
+    {
+        "pd_marketshare_ytd_others_25_security": "DUE IN > 13 MNTHS, BUT <=5 YRS"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "seclending_operations_0_operationType": "Securities Lending"
+    },
+    {
+        "seclending_operations_0_releaseTime": "12:00"
+    },
+    {
+        "seclending_operations_0_settlementDate": "2023-11-27"
+    },
+    {
+        "seclending_operations_0_totalParAmtAccepted": 33185000000
+    },
+    {
+        "seclending_operations_0_totalParAmtSubmitted": 34023000000
+    }
+]

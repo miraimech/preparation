@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_others_1_percentThirdQuintRange": "1.31 - 2.57"
+    },
+    {
+        "pd_marketshare_quarterly_others_1_security": "FLOATING RATE NOTES"
+    },
+    {
+        "pd_marketshare_quarterly_others_1_securityType": "U.S. TREASURY SECURITIES (EXCLUDING TIPS)"
+    },
+    {
+        "pd_marketshare_quarterly_others_20_dailyAvgVolInMillions": 411.3
+    },
+    {
+        "pd_marketshare_quarterly_others_20_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_20_percentFifthQuintRange": "<=0.00"
+    }
+]

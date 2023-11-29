@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_19_securityType": "MORTGAGE BACKED SECURITIES,FEDERAL AGENCY AND GSE MBS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_1_dailyAvgVolInMillions": 3645.0
+    },
+    {
+        "pd_marketshare_quarterly_totals_1_percentFifthQuintMktShare": "1.26"
+    },
+    {
+        "pd_marketshare_quarterly_totals_1_percentFifthQuintRange": "<=0.39"
+    },
+    {
+        "pd_marketshare_quarterly_totals_1_percentFirstQuintMktShare": "64.38"
+    },
+    {
+        "pd_marketshare_quarterly_totals_1_percentFirstQuintRange": ">=7.75"
+    }
+]

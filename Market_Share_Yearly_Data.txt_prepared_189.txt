@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_others_34_security": "OBLIGATIONS DUE IN > 5 YRS, BUT <= 10 YRS"
+    },
+    {
+        "pd_marketshare_ytd_others_34_securityType": "STATE AND MUNICIPAL GOVERNMENT OBLIGATIONS"
+    },
+    {
+        "pd_marketshare_ytd_others_35_dailyAvgVolInMillions": 3363.9
+    },
+    {
+        "pd_marketshare_ytd_others_35_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_ytd_others_35_percentFirstQuintMktShare": "69.18"
+    }
+]

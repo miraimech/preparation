@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_21_percentSecondQuintMktShare": "5.42"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_21_percentSecondQuintRange": "0.43 - 3.47"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_21_percentThirdQuintMktShare": "*"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_21_percentThirdQuintRange": "*"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_21_security": "NON-AGENCY RMBS"
+    }
+]

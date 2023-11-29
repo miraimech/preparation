@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_others_40_security": "OTHER ASSET-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_quarterly_others_40_securityType": "ASSET-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_quarterly_others_4_dailyAvgVolInMillions": 80021.1
+    },
+    {
+        "pd_marketshare_quarterly_others_4_percentFifthQuintMktShare": "1.99"
+    },
+    {
+        "pd_marketshare_quarterly_others_4_percentFifthQuintRange": "<=0.59"
+    },
+    {
+        "pd_marketshare_quarterly_others_4_percentFirstQuintMktShare": "54.67"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_quarterly_others_36_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_36_percentFirstQuintMktShare": "80.23"
+    },
+    {
+        "pd_marketshare_quarterly_others_36_percentFirstQuintRange": ">=8.31"
+    },
+    {
+        "pd_marketshare_quarterly_others_36_percentFourthQuintRange": "0.00 - 0.00"
+    }
+]

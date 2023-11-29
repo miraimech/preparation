@@ -1,0 +1,29 @@
+[
+    {
+        "refRates_4_revisionIndicator": ""
+    },
+    {
+        "refRates_4_type": "BGCR"
+    },
+    {
+        "refRates_4_volumeInBillions": 588
+    },
+    {
+        "refRates_5_effectiveDate": "2023-11-24"
+    },
+    {
+        "refRates_5_percentPercentile1": 5.27
+    },
+    {
+        "refRates_5_percentPercentile25": 5.3
+    },
+    {
+        "refRates_5_percentPercentile75": 5.39
+    },
+    {
+        "refRates_5_percentPercentile99": 5.42
+    },
+    {
+        "refRates_5_percentRate": 5.32
+    }
+]

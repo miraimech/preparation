@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_30_percentSecondQuintMktShare": "21.88"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_30_percentSecondQuintRange": "2.12 - 6.54"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_30_percentThirdQuintMktShare": "2.63"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_30_percentThirdQuintRange": "0.05 - 1.18"
+    },
+    {
+        "pd_marketshare_quarterly_interDealerBrokers_30_security": "DUE IN > 5 YRS, BUT <= 10 YRS"
+    }
+]

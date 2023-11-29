@@ -1,0 +1,11 @@
+[
+    {
+        "repo_operations_1_termCalenderDays": 1
+    },
+    {
+        "repo_operations_1_totalAmtAccepted": 0
+    },
+    {
+        "repo_operations_1_totalAmtSubmitted": 0
+    }
+]

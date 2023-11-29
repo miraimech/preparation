@@ -1,0 +1,26 @@
+[
+    {
+        "repo_operations_0_acceptedCpty": 92
+    },
+    {
+        "repo_operations_0_auctionStatus": "Results"
+    },
+    {
+        "repo_operations_0_closeTime": "13:15"
+    },
+    {
+        "repo_operations_0_details_0_amtAccepted": 867220000000
+    },
+    {
+        "repo_operations_0_details_0_amtSubmitted": 867220000000
+    },
+    {
+        "repo_operations_0_details_0_percentAwardRate": 5.3
+    },
+    {
+        "repo_operations_0_details_0_percentOfferingRate": 5.3
+    },
+    {
+        "repo_operations_0_details_0_securityType": "Treasury"
+    }
+]

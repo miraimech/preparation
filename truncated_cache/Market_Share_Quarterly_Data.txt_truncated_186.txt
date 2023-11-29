@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_others_27_security": "DUE IN > 10 YRS"
+    },
+    {
+        "pd_marketshare_quarterly_others_27_securityType": "INVESTMENT GRADE BONDS, NOTES, AND DEBENTURES"
+    },
+    {
+        "pd_marketshare_quarterly_others_28_dailyAvgVolInMillions": 157.6
+    },
+    {
+        "pd_marketshare_quarterly_others_28_percentFifthQuintMktShare": "0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_28_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_28_percentFirstQuintMktShare": "69.44"
+    }
+]

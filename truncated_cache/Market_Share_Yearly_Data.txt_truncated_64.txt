@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_29_securityType": "BELOW INVESTMENT GRADE BONDS, NOTES, AND DEBENTURES"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_2_dailyAvgVolInMillions": 27529.5
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_2_percentFifthQuintMktShare": "1.10"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_2_percentFifthQuintRange": "<=0.41"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_2_percentFirstQuintMktShare": "45.87"
+    }
+]

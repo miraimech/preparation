@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_9_percentFourthQuintRange": "0.00 - 0.07"
+    },
+    {
+        "pd_marketshare_quarterly_totals_9_percentSecondQuintMktShare": "16.98"
+    },
+    {
+        "pd_marketshare_quarterly_totals_9_percentSecondQuintRange": "1.84 - 7.37"
+    },
+    {
+        "pd_marketshare_quarterly_totals_9_percentThirdQuintMktShare": "3.45"
+    },
+    {
+        "pd_marketshare_quarterly_totals_9_percentThirdQuintRange": "0.07 - 1.28"
+    },
+    {
+        "pd_marketshare_quarterly_totals_9_security": "TIPS DUE IN 2 YRS OR LESS"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "repo_operations_1_operationLimit": 500000000000
+    },
+    {
+        "repo_operations_1_operationMethod": "Multiple Price"
+    },
+    {
+        "repo_operations_1_operationType": "Repo"
+    },
+    {
+        "repo_operations_1_releaseTime": "13:30"
+    },
+    {
+        "repo_operations_1_settlementDate": "2023-11-27"
+    },
+    {
+        "repo_operations_1_settlementType": "Same Day"
+    },
+    {
+        "repo_operations_1_term": "Overnight"
+    },
+    {
+        "repo_operations_1_termCalenderDays": 1
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "pd_marketshare_ytd_totals_22_percentSecondQuintRange": "0.15 - 10.23"
+    },
+    {
+        "pd_marketshare_ytd_totals_22_percentThirdQuintMktShare": "0.26"
+    },
+    {
+        "pd_marketshare_ytd_totals_22_percentThirdQuintRange": "0.00 - 0.13"
+    },
+    {
+        "pd_marketshare_ytd_totals_22_security": "OTHER CMBS"
+    },
+    {
+        "pd_marketshare_ytd_totals_22_securityType": "NON-AGENCY MBS"
+    },
+    {
+        "pd_marketshare_ytd_totals_23_dailyAvgVolInMillions": 94033.4
+    },
+    {
+        "pd_marketshare_ytd_totals_23_percentFifthQuintMktShare": "0.00"
+    }
+]

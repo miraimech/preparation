@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_7_percentSecondQuintMktShare": "34.14"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_7_percentSecondQuintRange": "4.73 - 9.33"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_7_percentThirdQuintMktShare": "9.64"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_7_percentThirdQuintRange": "1.19 - 2.74"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_7_security": "COUPONS DUE IN > 11 YRS, BUT <= 21 YRS"
+    }
+]

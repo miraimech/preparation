@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_others_14_percentSecondQuintRange": "2.10 - 6.73"
+    },
+    {
+        "pd_marketshare_ytd_others_14_percentThirdQuintMktShare": "7.86"
+    },
+    {
+        "pd_marketshare_ytd_others_14_percentThirdQuintRange": "1.25 - 1.98"
+    },
+    {
+        "pd_marketshare_ytd_others_14_security": "COUPONS"
+    },
+    {
+        "pd_marketshare_ytd_others_14_securityType": "FEDERAL AGENCY AND GSE SECURITIES (EXCLUDING MBS)"
+    },
+    {
+        "pd_marketshare_ytd_others_15_dailyAvgVolInMillions": 143160.1
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_19_percentSecondQuintRange": "1.94 - 3.65"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_19_percentThirdQuintMktShare": "2.27"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_19_percentThirdQuintRange": "0.00 - 1.72"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_19_security": "ALL OTHER FEDERAL AGENCY AND GSE RMBS"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_19_securityType": "MORTGAGE BACKED SECURITIES,FEDERAL AGENCY AND GSE MBS"
+    }
+]

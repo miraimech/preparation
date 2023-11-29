@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_10_percentThirdQuintRange": "1.27 - 2.73"
+    },
+    {
+        "pd_marketshare_quarterly_totals_10_security": "TIPS DUE IN > 2 YRS,BUT <= 6 YRS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_10_securityType": "U.S. TREASURY INFLATION PROTECTED SECURITIES (TIPS)"
+    },
+    {
+        "pd_marketshare_quarterly_totals_11_dailyAvgVolInMillions": 5165.6
+    },
+    {
+        "pd_marketshare_quarterly_totals_11_percentFifthQuintMktShare": "0.02"
+    },
+    {
+        "pd_marketshare_quarterly_totals_11_percentFifthQuintRange": "<=0.02"
+    }
+]

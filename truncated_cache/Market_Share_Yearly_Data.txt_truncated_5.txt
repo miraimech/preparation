@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_10_percentSecondQuintMktShare": "24.16"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_10_percentSecondQuintRange": "4.10 - 6.12"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_10_percentThirdQuintMktShare": "10.15"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_10_percentThirdQuintRange": "0.60 - 3.51"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_10_security": "TIPS DUE IN > 2 YRS,BUT <= 6 YRS"
+    }
+]

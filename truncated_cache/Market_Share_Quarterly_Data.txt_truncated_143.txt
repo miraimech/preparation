@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_others_12_percentFourthQuintRange": "0.17 - 0.82"
+    },
+    {
+        "pd_marketshare_quarterly_others_12_percentSecondQuintMktShare": "24.44"
+    },
+    {
+        "pd_marketshare_quarterly_others_12_percentSecondQuintRange": "3.93 - 6.65"
+    },
+    {
+        "pd_marketshare_quarterly_others_12_percentThirdQuintMktShare": "8.68"
+    },
+    {
+        "pd_marketshare_quarterly_others_12_percentThirdQuintRange": "1.06 - 2.61"
+    },
+    {
+        "pd_marketshare_quarterly_others_12_security": "TIPS DUE IN > 11 YRS"
+    }
+]

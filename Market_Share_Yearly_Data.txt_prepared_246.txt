@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_totals_17_percentThirdQuintRange": "0.41 - 1.67"
+    },
+    {
+        "pd_marketshare_ytd_totals_17_security": "SPECIFIED POOLS CASH TRANSACTIONS"
+    },
+    {
+        "pd_marketshare_ytd_totals_17_securityType": "MORTGAGE BACKED SECURITIES,FEDERAL AGENCY AND GSE MBS"
+    },
+    {
+        "pd_marketshare_ytd_totals_18_dailyAvgVolInMillions": 1.2
+    },
+    {
+        "pd_marketshare_ytd_totals_18_percentFifthQuintRange": "<=0.00"
+    }
+]

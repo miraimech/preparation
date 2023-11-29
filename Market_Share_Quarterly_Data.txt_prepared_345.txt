@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_8_percentThirdQuintMktShare": "9.20"
+    },
+    {
+        "pd_marketshare_quarterly_totals_8_percentThirdQuintRange": "1.32 - 2.99"
+    },
+    {
+        "pd_marketshare_quarterly_totals_8_security": "COUPONS DUE IN > 21 YRS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_8_securityType": "U.S. TREASURY SECURITIES (EXCLUDING TIPS)"
+    },
+    {
+        "pd_marketshare_quarterly_totals_9_dailyAvgVolInMillions": 2588.9
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_30_securityType": "BELOW INVESTMENT GRADE BONDS, NOTES, AND DEBENTURES"
+    },
+    {
+        "pd_marketshare_quarterly_totals_31_dailyAvgVolInMillions": 827.9
+    },
+    {
+        "pd_marketshare_quarterly_totals_31_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_quarterly_totals_31_percentFirstQuintMktShare": "72.95"
+    },
+    {
+        "pd_marketshare_quarterly_totals_31_percentFirstQuintRange": ">=7.47"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_others_39_percentSecondQuintMktShare": "19.48"
+    },
+    {
+        "pd_marketshare_quarterly_others_39_percentSecondQuintRange": "1.04 - 6.56"
+    },
+    {
+        "pd_marketshare_quarterly_others_39_percentThirdQuintMktShare": "1.08"
+    },
+    {
+        "pd_marketshare_quarterly_others_39_percentThirdQuintRange": "0.00 - 0.74"
+    },
+    {
+        "pd_marketshare_quarterly_others_39_security": "AUTOMOBILE LOAN-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_quarterly_others_39_securityType": "ASSET-BACKED SECURITIES"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_quarterly_others_0_security": "TREASURY BILLS"
+    },
+    {
+        "pd_marketshare_quarterly_others_0_securityType": "U.S. TREASURY SECURITIES (EXCLUDING TIPS)"
+    },
+    {
+        "pd_marketshare_quarterly_others_10_dailyAvgVolInMillions": 4513.5
+    },
+    {
+        "pd_marketshare_quarterly_others_10_percentFifthQuintMktShare": "*"
+    },
+    {
+        "pd_marketshare_quarterly_others_10_percentFifthQuintRange": "*"
+    },
+    {
+        "pd_marketshare_quarterly_others_10_percentFirstQuintMktShare": "64.05"
+    }
+]

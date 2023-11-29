@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_others_35_percentSecondQuintRange": "1.82 - 8.78"
+    },
+    {
+        "pd_marketshare_ytd_others_35_percentThirdQuintMktShare": "0.89"
+    },
+    {
+        "pd_marketshare_ytd_others_35_percentThirdQuintRange": "0.00 - 0.53"
+    },
+    {
+        "pd_marketshare_ytd_others_35_security": "OBLIGATIONS DUE IN > 10 YRS"
+    },
+    {
+        "pd_marketshare_ytd_others_35_securityType": "STATE AND MUNICIPAL GOVERNMENT OBLIGATIONS"
+    },
+    {
+        "pd_marketshare_ytd_others_36_dailyAvgVolInMillions": 2012.3
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "pd_marketshare_ytd_numDealers_firstQuint": 5
+    },
+    {
+        "pd_marketshare_ytd_numDealers_fourthQuint": 5
+    },
+    {
+        "pd_marketshare_ytd_numDealers_secondQuint": 5
+    },
+    {
+        "pd_marketshare_ytd_numDealers_thirdQuint": 5
+    },
+    {
+        "pd_marketshare_ytd_others_0_dailyAvgVolInMillions": 145087.7
+    },
+    {
+        "pd_marketshare_ytd_others_0_percentFifthQuintMktShare": "2.37"
+    },
+    {
+        "pd_marketshare_ytd_others_0_percentFifthQuintRange": "<=0.96"
+    }
+]

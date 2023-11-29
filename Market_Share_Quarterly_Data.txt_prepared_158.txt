@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_quarterly_others_18_percentFirstQuintMktShare": "*"
+    },
+    {
+        "pd_marketshare_quarterly_others_18_percentFirstQuintRange": "*"
+    },
+    {
+        "pd_marketshare_quarterly_others_18_percentFourthQuintRange": "0.00 - 0.00"
+    },
+    {
+        "pd_marketshare_quarterly_others_18_percentSecondQuintRange": "0.00 - 0.00"
+    }
+]

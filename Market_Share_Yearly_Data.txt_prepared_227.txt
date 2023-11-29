@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_totals_10_percentFourthQuintRange": "0.18 - 0.80"
+    },
+    {
+        "pd_marketshare_ytd_totals_10_percentSecondQuintMktShare": "23.06"
+    },
+    {
+        "pd_marketshare_ytd_totals_10_percentSecondQuintRange": "2.92 - 5.60"
+    },
+    {
+        "pd_marketshare_ytd_totals_10_percentThirdQuintMktShare": "9.86"
+    },
+    {
+        "pd_marketshare_ytd_totals_10_percentThirdQuintRange": "1.00 - 2.63"
+    },
+    {
+        "pd_marketshare_ytd_totals_10_security": "TIPS DUE IN > 2 YRS,BUT <= 6 YRS"
+    }
+]

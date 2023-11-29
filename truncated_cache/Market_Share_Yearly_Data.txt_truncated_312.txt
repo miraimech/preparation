@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_totals_40_percentFourthQuintMktShare": "1.42"
+    },
+    {
+        "pd_marketshare_ytd_totals_40_percentFourthQuintRange": "0.00 - 0.80"
+    },
+    {
+        "pd_marketshare_ytd_totals_40_percentSecondQuintMktShare": "27.77"
+    },
+    {
+        "pd_marketshare_ytd_totals_40_percentSecondQuintRange": "4.97 - 6.08"
+    },
+    {
+        "pd_marketshare_ytd_totals_40_percentThirdQuintMktShare": "15.19"
+    },
+    {
+        "pd_marketshare_ytd_totals_40_percentThirdQuintRange": "1.51 - 4.69"
+    }
+]

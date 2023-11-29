@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_others_19_percentThirdQuintMktShare": "6.29"
+    },
+    {
+        "pd_marketshare_quarterly_others_19_percentThirdQuintRange": "0.57 - 1.65"
+    },
+    {
+        "pd_marketshare_quarterly_others_19_security": "ALL OTHER FEDERAL AGENCY AND GSE RMBS"
+    },
+    {
+        "pd_marketshare_quarterly_others_19_securityType": "MORTGAGE BACKED SECURITIES,FEDERAL AGENCY AND GSE MBS"
+    },
+    {
+        "pd_marketshare_quarterly_others_1_dailyAvgVolInMillions": 3137.2
+    }
+]

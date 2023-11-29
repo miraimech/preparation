@@ -1,0 +1,26 @@
+[
+    {
+        "repo_operations_0_operationType": "Reverse Repo"
+    },
+    {
+        "repo_operations_0_participatingCpty": 92
+    },
+    {
+        "repo_operations_0_releaseTime": "12:45"
+    },
+    {
+        "repo_operations_0_settlementDate": "2023-11-27"
+    },
+    {
+        "repo_operations_0_settlementType": "Same Day"
+    },
+    {
+        "repo_operations_0_term": "Overnight"
+    },
+    {
+        "repo_operations_0_termCalenderDays": 1
+    },
+    {
+        "repo_operations_0_totalAmtAccepted": 867220000000
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_totals_1_percentFourthQuintRange": "0.36 - 1.09"
+    },
+    {
+        "pd_marketshare_ytd_totals_1_percentSecondQuintMktShare": "19.04"
+    },
+    {
+        "pd_marketshare_ytd_totals_1_percentSecondQuintRange": "3.04 - 4.95"
+    },
+    {
+        "pd_marketshare_ytd_totals_1_percentThirdQuintMktShare": "7.98"
+    },
+    {
+        "pd_marketshare_ytd_totals_1_percentThirdQuintRange": "1.10 - 2.78"
+    },
+    {
+        "pd_marketshare_ytd_totals_1_security": "FLOATING RATE NOTES"
+    }
+]

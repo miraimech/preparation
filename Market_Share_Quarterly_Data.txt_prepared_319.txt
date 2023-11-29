@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_36_percentThirdQuintRange": "0.00 - 0.00"
+    },
+    {
+        "pd_marketshare_quarterly_totals_36_security": "VARIABLE RATE DEMAND NOTES"
+    },
+    {
+        "pd_marketshare_quarterly_totals_36_securityType": "STATE AND MUNICIPAL GOVERNMENT OBLIGATIONS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_37_dailyAvgVolInMillions": 197.6
+    }
+]

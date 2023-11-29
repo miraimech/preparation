@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_percentSecondQuintRange": "4.07 - 7.91"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_percentThirdQuintMktShare": "11.54"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_percentThirdQuintRange": "0.89 - 3.14"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_security": "COUPONS"
+    },
+    {
+        "pd_marketshare_ytd_interDealerBrokers_14_securityType": "FEDERAL AGENCY AND GSE SECURITIES (EXCLUDING MBS)"
+    }
+]

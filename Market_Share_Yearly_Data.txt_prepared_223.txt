@@ -1,0 +1,23 @@
+[
+    {
+        "pd_marketshare_ytd_releaseDate": "2023-10-12"
+    },
+    {
+        "pd_marketshare_ytd_title": "PERIOD COVERING FROM Jan 4, 2023 TO Sep 27, 2023"
+    },
+    {
+        "pd_marketshare_ytd_totals_0_dailyAvgVolInMillions": 186238.6
+    },
+    {
+        "pd_marketshare_ytd_totals_0_percentFifthQuintMktShare": "2.94"
+    },
+    {
+        "pd_marketshare_ytd_totals_0_percentFifthQuintRange": "<=0.81"
+    },
+    {
+        "pd_marketshare_ytd_totals_0_percentFirstQuintMktShare": "46.55"
+    },
+    {
+        "pd_marketshare_ytd_totals_0_percentFirstQuintRange": ">=7.34"
+    }
+]

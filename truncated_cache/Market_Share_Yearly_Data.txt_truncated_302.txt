@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_totals_37_percentSecondQuintMktShare": "14.03"
+    },
+    {
+        "pd_marketshare_ytd_totals_37_percentSecondQuintRange": "1.16 - 4.24"
+    },
+    {
+        "pd_marketshare_ytd_totals_37_percentThirdQuintMktShare": "0.84"
+    },
+    {
+        "pd_marketshare_ytd_totals_37_percentThirdQuintRange": "0.00 - 0.63"
+    },
+    {
+        "pd_marketshare_ytd_totals_37_security": "CREDIT CARD-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_ytd_totals_37_securityType": "ASSET-BACKED SECURITIES"
+    }
+]

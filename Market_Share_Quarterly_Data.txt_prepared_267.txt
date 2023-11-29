@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_18_security": "SPECIFIED POOLS DOLLAR ROLL TRANSACTIONS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_18_securityType": "MORTGAGE BACKED SECURITIES,FEDERAL AGENCY AND GSE MBS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_19_dailyAvgVolInMillions": 2032.0
+    },
+    {
+        "pd_marketshare_quarterly_totals_19_percentFifthQuintRange": "<=0.00"
+    }
+]

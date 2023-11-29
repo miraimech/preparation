@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_others_39_security": "AUTOMOBILE LOAN-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_ytd_others_39_securityType": "ASSET-BACKED SECURITIES"
+    },
+    {
+        "pd_marketshare_ytd_others_3_dailyAvgVolInMillions": 36349.3
+    },
+    {
+        "pd_marketshare_ytd_others_3_percentFifthQuintMktShare": "2.50"
+    },
+    {
+        "pd_marketshare_ytd_others_3_percentFifthQuintRange": "<=0.61"
+    },
+    {
+        "pd_marketshare_ytd_others_3_percentFirstQuintMktShare": "53.35"
+    }
+]

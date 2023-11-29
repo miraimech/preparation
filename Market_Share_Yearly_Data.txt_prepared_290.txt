@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_ytd_totals_32_securityType": "STATE AND MUNICIPAL GOVERNMENT OBLIGATIONS"
+    },
+    {
+        "pd_marketshare_ytd_totals_33_dailyAvgVolInMillions": 620.6
+    },
+    {
+        "pd_marketshare_ytd_totals_33_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_ytd_totals_33_percentFirstQuintMktShare": "71.26"
+    },
+    {
+        "pd_marketshare_ytd_totals_33_percentFirstQuintRange": ">=8.89"
+    }
+]

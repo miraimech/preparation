@@ -1,0 +1,20 @@
+[
+    {
+        "pd_marketshare_ytd_others_6_percentFourthQuintRange": "0.63 - 1.83"
+    },
+    {
+        "pd_marketshare_ytd_others_6_percentSecondQuintMktShare": "27.34"
+    },
+    {
+        "pd_marketshare_ytd_others_6_percentSecondQuintRange": "2.95 - 7.90"
+    },
+    {
+        "pd_marketshare_ytd_others_6_percentThirdQuintMktShare": "11.45"
+    },
+    {
+        "pd_marketshare_ytd_others_6_percentThirdQuintRange": "1.93 - 2.54"
+    },
+    {
+        "pd_marketshare_ytd_others_6_security": "COUPONS DUE IN > 7 YRS, BUT <= 11 YRS"
+    }
+]

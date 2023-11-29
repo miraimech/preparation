@@ -1,0 +1,17 @@
+[
+    {
+        "pd_marketshare_quarterly_totals_35_securityType": "STATE AND MUNICIPAL GOVERNMENT OBLIGATIONS"
+    },
+    {
+        "pd_marketshare_quarterly_totals_36_dailyAvgVolInMillions": 2071.3
+    },
+    {
+        "pd_marketshare_quarterly_totals_36_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_quarterly_totals_36_percentFirstQuintMktShare": "80.22"
+    },
+    {
+        "pd_marketshare_quarterly_totals_36_percentFirstQuintRange": ">=8.31"
+    }
+]

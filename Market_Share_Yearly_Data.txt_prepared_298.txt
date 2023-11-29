@@ -1,0 +1,14 @@
+[
+    {
+        "pd_marketshare_ytd_totals_36_dailyAvgVolInMillions": 2013.0
+    },
+    {
+        "pd_marketshare_ytd_totals_36_percentFifthQuintRange": "<=0.00"
+    },
+    {
+        "pd_marketshare_ytd_totals_36_percentFirstQuintMktShare": "79.59"
+    },
+    {
+        "pd_marketshare_ytd_totals_36_percentFirstQuintRange": ">=8.64"
+    }
+]
